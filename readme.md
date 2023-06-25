@@ -1,5 +1,5 @@
 <h1 align="center"> Site faculdade UNES 🎓 </h1> 
-<div align="center">Fiz um site simples de faculdade para testar conhecimentos de HTML, usando apenas ele. </div>
+<div align="center">Site simples de faculdade para colocar em prática no que foi aprendido no curso da Udemy</div>
 <h2 align="center">Ferramentas usadas para o projeto</h2>
 
 <div align="center"><br>
@@ -11,5 +11,5 @@
 
 <div align="center">
   <div align="center">
-    <b><a href="">Site onde o Projeto é Carregado!</a></b>
+    <b><a href="https://projeto-site-universidade.vercel.app">Site para o projeto.</a></b>
 </div>
