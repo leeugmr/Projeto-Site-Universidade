@@ -13,3 +13,5 @@
   <div align="center">
     <b><a href="https://projeto-site-universidade.vercel.app">Site para o projeto.</a></b>
 </div>
+
+### <p align="center"> Obrigado por ver ❤ </p>
